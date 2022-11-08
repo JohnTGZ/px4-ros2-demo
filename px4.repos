@@ -1,0 +1,17 @@
+repositories:
+  upstream/px4_msgs:
+    type: git
+    url: https://github.com/PX4/px4_msgs.git
+    version: main
+  upstream/px4_ros_com:
+    type: git
+    url: https://github.com/PX4/px4_ros_com.git
+    version: main
+  upstream/px4-autopilot:
+    type: git
+    url: https://github.com/PX4/PX4-Autopilot.git
+    version: main
+  px4-offboard:
+    type: git
+    url: https://github.com/Jaeyoung-Lim/px4-offboard.git
+    version: master
